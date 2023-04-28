@@ -1,2 +1,2 @@
 # Address_Book
-Python app for checking information
+Application for saving addresses and other information
